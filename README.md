@@ -1,4 +1,4 @@
-# App Hamburgueria
+# App de finanças
 
 <img src="" alt="Gif do projeto">
 
@@ -47,4 +47,4 @@ utilizei as ferramentas: React.js, typescript, miragejs, Axios, react-modal, Sty
 <br>
 
 
-[⬆ Voltar ao topo](#App-Hamburgueria)<br>
+[⬆ Voltar ao topo](#App-de-finanças)<br>
