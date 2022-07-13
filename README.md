@@ -15,6 +15,22 @@ utilizei as ferramentas: React.js, typescript, miragejs, Axios, react-modal, Sty
 
 <br>
 
+### 🔧 Instalação
+
+Para instalçao devera apenas baixar o arquivo apertando no botão "CODE" e baixar o arquivo em zip.
+
+Abra o projeto com o visual studio code, Abra o terminal e insira:
+
+```
+ "yarn install"
+```
+
+Assim que for baixado a node modules, inicie o projeto com:
+
+```
+yarn start
+```
+
 
 ## ☕ tecnologias utilizadas
 
