@@ -22,7 +22,7 @@ Para instalçao devera apenas baixar o arquivo apertando no botão "CODE" e baix
 Abra o projeto com o visual studio code, Abra o terminal e insira:
 
 ```
- "yarn install"
+ yarn install
 ```
 
 Assim que for baixado a node modules, inicie o projeto com:
