@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma app controle de finanças, onde você cadastra as entradas e saidas do sua conta e genrencia elas! Você consegue especificar o tipo de movimentação, entredas ou saidas! Colocar o titulo e Categorizar as movimentações.
+Este projeto trata-se de uma app controle de finanças, onde você cadastra as entradas e saidas do sua conta e genrencia elas! Você consegue especificar o tipo de movimentação, entradas ou saidas! Colocar o titulo e Categorizar as movimentações.
 
 
 utilizei as ferramentas: React.js, typescript, miragejs, Axios, react-modal, Styled-componentes, FormEvent, createContext, ReactNode, useContext, useEffect, useState.
